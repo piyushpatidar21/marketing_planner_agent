@@ -1,3 +1,5 @@
+# docker compose up --build
+
 import streamlit as st
 from marketing_planner_agent.agent import MarketingAgent
 
