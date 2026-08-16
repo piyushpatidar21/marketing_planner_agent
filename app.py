@@ -159,3 +159,6 @@ if generate:
 
     else:
         st.warning("⚠ Please enter a marketing goal")
+
+
+        
